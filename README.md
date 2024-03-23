@@ -1,3 +1,7 @@
+
+`현재 세감으로 다른 서비스와 통합되어 운영중입니다!` https://github.com/se-gam/ 
+
+
 # 종이당 - 세종대학교 학술정보원 스터디룸 예약 어플
 ![그래픽 이미지](https://user-images.githubusercontent.com/45655623/231925680-34d210c6-3914-40de-855b-2c5c5f7e982f.png)
 ## 사용방법
@@ -43,5 +47,3 @@ https://play.google.com/store/apps/details?id=com.jongidang
 <img width="699" alt="스크린샷 2023-04-14 오전 11 48 30" src="https://user-images.githubusercontent.com/45655623/231928972-f36849eb-418b-4ce0-b0d7-1236e4f3648b.png">
 
 ---
-❗️ 현재 학술정보원 리모델링 공사중으로 서비스를 이용하실 수 없습니다.
-
